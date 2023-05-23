@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Videoflow player</string>
+    <string name="unique_app_id">Your app id is:\n%1$s\nPlease contact Videoflow.</string>
+</resources>
